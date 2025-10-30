@@ -1,3 +1,3 @@
 # SPOTIFY CLONE
 
-[image](/image.png)
+![image](image.png)
