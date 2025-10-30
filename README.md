@@ -1,3 +1,3 @@
 # SPOTIFY CLONE
 
-[spotify_clone](spotify.png)
+[spotify_clone](image.png)
